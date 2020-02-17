@@ -3,7 +3,9 @@ How to execute this script
 1) Verify the file "BasicShows" exists
 
 root@vMX01:/var/db/scripts/op # more BasicShows
+
 show version
+
 show system uptime
 
 2) Verify Junos configuration
@@ -17,6 +19,7 @@ set groups PYTHON system scripts language python
 3) Execute script
 
 root@vMX01> op pyshoot0  
+
 >>>show version
 
 >>>show system uptime
