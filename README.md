@@ -1,1 +1,1 @@
-Example scripts using Juniper PyEZ
+Example scripts using python and Juniper PyEZ
