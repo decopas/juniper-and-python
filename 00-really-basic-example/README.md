@@ -8,8 +8,10 @@ show system uptime
 
 2) Verify Junos configuration
 
-root@vMX01> show configuration groups PYTHON |display set 
+root@vMX01> show configuration groups PYTHON |display set
+
 set groups PYTHON system scripts op file python0.py command pyshoot0
+
 set groups PYTHON system scripts language python
 
 3) Execute script
