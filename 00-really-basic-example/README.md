@@ -17,5 +17,4 @@ set groups PYTHON system scripts language python
 root@vMX01> op pyshoot0  
 >>>show version
 
-
 >>>show system uptime
